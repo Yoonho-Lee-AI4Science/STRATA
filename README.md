@@ -1,4 +1,5 @@
 # STRATA
+Official implementation for the NeurIPS 2026 paper : Screening Lipid Nanoparticles through Structure-Ratio Alignment
 
 ## Environment Setup
 We used uv as virtual environment

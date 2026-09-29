@@ -1,0 +1,5 @@
+*
+!MolCLR
+!MolCLR/config.yaml
+!MolCLR/model.pth
+!.gitignore

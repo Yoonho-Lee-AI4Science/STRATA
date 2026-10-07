@@ -168,7 +168,7 @@ def main():
         args.dataset_name,
         additional_str,
         ratio_dir,
-        args.reverse,
+        True,
     )
     args.config_str = _get_config_string(args)
     args.save_dir = os.path.join(save_root, args.config_str)
